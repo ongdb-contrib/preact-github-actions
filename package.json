@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "preact-github-actions-to-github-pages",
+  "name": "preact-github-actions",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -12,7 +12,7 @@
     "dev": "preact watch",
     "lint": "eslint src",
     "test": "jest",
-    "build:gh": "GITHUB_PAGES=preact-github-actions-to-github-pages preact build && dot-json ./build/manifest.json start_url \"/preact-github-actions-to-github-pages/\""
+    "build:gh": "GITHUB_PAGES=preact-github-actions preact build && dot-json ./build/manifest.json start_url \"/preact-github-actions/\""
   },
   "eslintConfig": {
     "extends": "eslint-config-synacor"

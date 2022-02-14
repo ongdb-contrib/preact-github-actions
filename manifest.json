@@ -1,7 +1,7 @@
 {
   "name": "preact-github-actions-to-github-pages",
   "short_name": "preact-github-actions-to-github-pages",
-  "start_url": "/preact-github-actions-to-github-pages/",
+  "start_url": "/preact-github-actions/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",

@@ -33,4 +33,3 @@ jobs:
         ACTIONS_DEPLOY_KEY: ${{ secrets.DEMO_TOKEN }}
         PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: ./build
-

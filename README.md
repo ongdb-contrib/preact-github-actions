@@ -1,4 +1,4 @@
-# preact-github-actions-to-github-pages
+# preact-github-actions
   It's a Demo about how to use Github Actions to deploy a preactjs website to Github pages (also installable(PWA))
 
 ## steps to how to use `Github Actions` to deploy `preactjs` to `Github Pages`
